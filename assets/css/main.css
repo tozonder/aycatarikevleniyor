@@ -3,15 +3,14 @@ html, body {
 }
 
 html {
-	background-image: url('../img/sample.jpg');
-	background-position: center center;
+	background-image: url('../img/cicek.png');
+	background-position: center left;
 	background-repeat: no-repeat;
-	background-size: cover;	
+	background-size: 30%;
 }
 
 body {
-	background-color: rgba(44,62,80 , 0.6 );
-	background-image: url('../img/pattern.png');
+	background-color: rgba(44,62,80 , 0.4 );
 	background-position: center;
 	background-repeat: repeat;
 	font-family: 'Raleway', 'Arial', sans-serif;
